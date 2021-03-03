@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+.header {
+  padding: 20px;
+  color: whitesmoke;
+  background-color: teal;
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.add {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin-left: 10px
+}
+
+button {
+  margin-left: 10px;
+  color: whitesmoke;
+  background-color: teal;
+}
+
+label {
+  font-size: 18px;
+}
